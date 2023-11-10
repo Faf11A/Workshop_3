@@ -1,2 +1,2 @@
 # Workshop_3
-Панель управления пользователями
+Panel zarządzania użytkownikami
